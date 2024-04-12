@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20my%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-
+#### 안녕하세요! 정승환입니다! 저로 말씀드리자면...
+    *컴퓨터공학과 3학년
+    *환승연애 애청자
+    *ROTC 64기
+    *물 속에서 숨 2분 참기 가능 
+    *MBTI =>  ISTJ 입니다! 
     
 
 
