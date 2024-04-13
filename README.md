@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20my%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 #### 안녕하세요! 정승환입니다! 저로 말씀드리자면...
-   컴퓨터 공학과 3학년 / ROTC 64 기 / 의정부고 밥 빨리 먹기 2등 / 친한 친구 10명 / 환승연애 애청자 / 크라임씬 카페를 좋아합니다 
+   컴퓨터 공학과 3학년 / ROTC 64 기 / 의정부고 밥 빨리 먹기 2등 / 환승연애 애청자 / 
     
 
 
