@@ -6,7 +6,8 @@
    - **ROTC** 64 기 
    - 의정부고 밥 빨리 먹기 **2등** 
    - ~~**환승연애**~~ 애청자
-   - **눈물의 여왕** 애청자
+   - ~~**눈물의 여왕**~~ 애청자
+   - **플러터** 연습 중!
     
 
 
@@ -16,7 +17,6 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=white"> 
-        <img src="https://github.com/jsh02/jsh02/assets/127283576/0499ea08-d4e6-4708-a693-0d8108cdbdb0" alt="Bebe" width="45"> 
 </div>
 
 
